@@ -1,0 +1,22 @@
+{
+  "author": "Alexy Ovchinnikov",
+  "name": "karma-polymer",
+  "description": "karma adapter for Polymer framewrok",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cybernetlab/karma-polymer.git"
+  },
+  "main": "./index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter"
+  ],
+  "license": "MIT"
+}
