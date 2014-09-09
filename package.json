@@ -2,7 +2,7 @@
   "author": "Alexy Ovchinnikov",
   "name": "karma-polymer",
   "description": "karma adapter for Polymer framewrok",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/cybernetlab/karma-polymer.git"
