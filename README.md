@@ -1,6 +1,6 @@
 # Karma adapter for Polymer framewrok
 
-This adapter helps to test (Polymer)[http://www.polymer-project.org/] projects with (karma)[http://karma-runner.github.io/0.12/index.html].
+This adapter helps to test [Polymer](http://www.polymer-project.org/) projects with [Karma](http://karma-runner.github.io/0.12/index.html).
 
 # Installation
 
