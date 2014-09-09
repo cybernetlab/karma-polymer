@@ -2,6 +2,8 @@
 
 This adapter helps to test [Polymer](http://www.polymer-project.org/) projects with [Karma](http://karma-runner.github.io/0.12/index.html).
 
+> Tested with Chrome 37 and Firefox 32 on linux
+
 # Installation
 
 Add npm module to your dependencies:
@@ -10,7 +12,7 @@ Add npm module to your dependencies:
 {
   "devDependencies": {
     "karma": "~0.12.0",
-    "karma-polymer": "~0.1.0"
+    "karma-polymer": "~0.1.3"
   }
 }
 ```
@@ -120,3 +122,10 @@ it('should be true', function() {
   expect(polymer.elements[0].tagName).toEqual('MY-FIRST-ELEMENT')
 })
 ```
+
+# Changelog
+
+### `0.1.3`
+
+* Bootstrap process refactored.
+* Testing in Firefox fixed.
