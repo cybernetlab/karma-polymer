@@ -83,7 +83,7 @@ it('should be true', function(done) {
 
 Creates elements, runs callback and removes all elements after it
 
-This function is very si,ilar to create except it removes all created elements after callback is finished:
+This function is very similar to `create` except it removes all created elements after callback is finished:
 
 ```js
 it('should be true', function(done) {
