@@ -125,6 +125,10 @@ it('should be true', function() {
 
 # Changelog
 
+### `0.1.4`
+
+* added glob package to the package.json
+
 ### `0.1.3`
 
 * Bootstrap process refactored.
