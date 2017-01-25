@@ -125,6 +125,10 @@ it('should be true', function() {
 
 # Changelog
 
+### `0.1.5`
+
+* Fixed [#2](https://github.com/cybernetlab/karma-polymer/issues/2) (don't start testing untill webcomponents become ready).
+
 ### `0.1.4`
 
 * added glob package to the package.json
